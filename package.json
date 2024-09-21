@@ -1,0 +1,13 @@
+{
+  "name": "user-address-api",
+  "version": "1.0.0",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.7.2",
+    "dotenv": "^10.0.0"
+  }
+}
